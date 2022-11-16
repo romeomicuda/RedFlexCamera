@@ -64,3 +64,5 @@ buck-out/
 /vendor/bundle/
 
 .node_modules
+.android
+.ios
